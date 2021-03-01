@@ -34,7 +34,7 @@
 ---
 
 * <h4>Yaa, You can contact me!</h4>
-<strong>I am in a <em>Great</em> need of a writing buddy....</strong>
+* <strong>PS: I am in a <em>Great</em> need of a writing buddy....</strong>
 
 ![image](https://user-images.githubusercontent.com/61249902/109544468-9a548400-7aed-11eb-98b7-cfab86b594d9.png)
 
