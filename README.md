@@ -4,7 +4,7 @@ This contains a basic site which give an intro about ME, and what do I do. So do
 
 ## Live Site
 <h4>You can play around with the site at:</h4>
-https://ujjwaltyagi355.github.io/CSS_My_Site/
+https://ujjwaltyagi355.github.io/Into_Site_CSS/
 
 
 ## Screen Shots
