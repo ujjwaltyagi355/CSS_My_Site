@@ -1,5 +1,5 @@
 ## Intro_Site
-This project is product of my learning path for `CSS`.<br />
+This project is product of my learning spree of `CSS`.<br />
 This contains a basic site which give an about ME, and what so I do. So don't Judge me for that!🤪<br />
 
 ### Live Site
