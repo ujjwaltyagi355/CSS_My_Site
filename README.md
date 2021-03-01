@@ -16,7 +16,7 @@ https://ujjwaltyagi355.github.io/Into_Site_CSS/
 
 <h4>This is a small Intro Section for myself</h4>
 
-![image](https://user-images.githubusercontent.com/61249902/109543796-c58aa380-7aec-11eb-9123-b38eef816922.png)
+![image](https://user-images.githubusercontent.com/61249902/109546323-0637ec00-7af0-11eb-92d2-8c35d70927fd.png)
 
 
 <h4>This is where I showcase my <em>Infinitely</em> long list of skills.😝</h4>
