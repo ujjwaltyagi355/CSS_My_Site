@@ -1,13 +1,13 @@
-## Intro_Site
+# Intro_Site
 This project is product of my learning spree of `CSS`.<br />
 This contains a basic site which give an intro about ME, and what do I do. So don't Judge me for that!🤪<br />
 
-### Live Site
+## Live Site
 <h4>You can play around with the site at:</h4>
 https://ujjwaltyagi355.github.io/CSS_My_Site/
 
 
-### Screen Shots
+## Screen Shots
 
 <h4>This is the <em>HomePage</em> for the Website.</h4>
 <strong>PS: The Clouds and Mountains are separate entities in themselves. They have there own <em>margins</em> and <em>paddings</em> for their respective positioning </strong>
@@ -29,7 +29,7 @@ https://ujjwaltyagi355.github.io/CSS_My_Site/
 
 ![image](https://user-images.githubusercontent.com/61249902/109544468-9a548400-7aed-11eb-98b7-cfab86b594d9.png)
 
-### Code
+## Code
 The code has been purely written in `HTML` and `CSS`.<br />
 I have use `Div`'s to separate the various sections from each other.<br />
 I have used `External CSS` for styling the whole page.
