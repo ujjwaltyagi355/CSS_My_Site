@@ -27,7 +27,7 @@
 ---
 
 * <h4>This is where I showcase my <em>Infinitely</em> long list of skills.😝</h4>
-<strong>PS: I am a Writer as well.</strong>
+* <strong>PS: I am a Writer as well.</strong>
 
 ![image](https://user-images.githubusercontent.com/61249902/109544098-24e8b380-7aed-11eb-8df1-f36cd21029d3.png)
 
