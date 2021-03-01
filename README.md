@@ -1,6 +1,6 @@
 ## Intro_Site
 This project is product of my learning spree of `CSS`.<br />
-This contains a basic site which give an intro about ME, and what so I do. So don't Judge me for that!🤪<br />
+This contains a basic site which give an intro about ME, and what do I do. So don't Judge me for that!🤪<br />
 
 ### Live Site
 <h4>You can play around with the site at:</h4>
