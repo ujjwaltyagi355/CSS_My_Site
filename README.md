@@ -46,7 +46,6 @@
 * I have used `External CSS` for styling the whole page.
 
 <br />
-<br />
 <h3 align="center">I hope you loved it...❤️</h3>
 
 
